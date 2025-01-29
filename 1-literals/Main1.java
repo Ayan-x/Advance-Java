@@ -1,5 +1,7 @@
-class Main1{
-    public static void main(String[] args){
+
+class Main1 {
+
+    public static void main(String[] args) {
         // literals are the value which are stored in variable.
         int num = 0b101; // Here we are storing binary value in num
         System.out.println(num);
@@ -9,3 +11,4 @@ class Main1{
         System.out.println(num3);
     }
 }
+// This is just done for learning git
