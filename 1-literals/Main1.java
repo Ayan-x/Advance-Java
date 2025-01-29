@@ -15,3 +15,4 @@ class Main1 {
 // for skipping staging part you need to git commit -a -m "commiting"
 // for checking diff-get diff
 // for adding all the file - git add .
+// for deleting file from git -> git rm --cached file_name
