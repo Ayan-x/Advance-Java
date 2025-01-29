@@ -1,0 +1,4 @@
+So Here we are going to talk about final keyword
+final variable will make variable constant.
+final method will restrict method to override by other method of different class
+final class will restrict class to extend(inherite) by other class
