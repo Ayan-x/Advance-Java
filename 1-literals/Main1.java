@@ -13,3 +13,4 @@ class Main1 {
 }
 // This is just done for learning git
 // for skipping staging part you need to git commit -a -m "commiting"
+// for checking diff-get diff
